@@ -1,0 +1,11 @@
+Name=input("Enter Your name:")
+roll_no=input("Enter Your ROll No:")
+Course=input("Enter Your Course:")
+Subject=input("Enter Your Subject:")
+University=input("Enter Your University:")
+print(Name)
+print(roll_no)
+print(Course)
+print(Subject)
+print(University)
+
